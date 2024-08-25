@@ -1,0 +1,2 @@
+Prefix plugins/BuildTree/example/
+Plugin BuildTree inputfile ncbiIDs.unique.txt outputfile output.tree
